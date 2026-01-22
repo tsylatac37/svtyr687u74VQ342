@@ -43,3 +43,8 @@ void create_end()
         temp = temp->next;
     }
 }
+
+int main() {
+    create_end();
+    return 0;
+}
